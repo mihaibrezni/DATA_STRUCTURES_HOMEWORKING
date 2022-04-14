@@ -1,5 +1,5 @@
     Programul prelucreaza datele din consola cu ajutorul listelor dublu inlantuite in
-    functii de comanda primita;
+    functie de comanda primita;
 
 Am creat o lista cu datele,  dupa care am inceput sa o prelucrez cu functii specifice de adaugare stergere, inserare, eliminare noduri plus mici programele caracteristice taskului.
 
