@@ -1,5 +1,5 @@
-#ifndef CRY_EVERY_DAY
-#define CRY_EVERY_DAY
+#ifndef TRY_TO_DONT_CRY
+#define TRY_TO_DONT_CRY
 
 #include <string.h>
 #include <stdio.h>
